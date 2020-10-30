@@ -1,0 +1,5 @@
+Semantic HTML is a way of marking up content ona  webpage so it is easily accesible for web browsers, search engines and developers and also screen readers. 
+Two differences between block and inline: inline enlements dont start on a new line as block elements do take up a new line
+4 areas of a box model: Padding, Border, Marfin, Content.
+Cross-axis.
+Git allows multiple developers to work on a single project together without having to be in the same area or worrt about losing their work or constantly check on it. they can approve each other's changes or find bugs in eacch other's wprk. 
