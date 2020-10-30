@@ -113,10 +113,11 @@ li, a {
     color: black;
 }
 header {
+    width: 800px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    margin: 2.5% 0 2.5% 30%;
 }
 .logo {
     margin-left: 5%;
@@ -129,7 +130,7 @@ header {
     display: flex;
     flex-direction: column;
     margin-left: 25%;
-    padding: 0 0 20px;
+    padding: 0 0 25px;
 }
 html, body {
     height: 100%;
@@ -144,25 +145,25 @@ h2 {
     margin-bottom: 5%;
 }
 .strat {
-    width: 50%;
+    width: 47.5%;
     line-height: 1.4;
     border-bottom: 1px dashed black;
     margin-bottom: 5%;
 }
 .work {
-    width: 50%;
+    width: 47.5%;
     line-height: 1.4;
     border-bottom: 1px dashed black;
     margin-bottom: 5%;
 }
 .environment {
-    width: 50%;
+    width: 47.5%;
     line-height: 1.4;
     border-bottom: 1px dashed black;
     margin-bottom: 5%;
 }
 .meeting {
-    width: 50%;
+    width: 47.5%;
     line-height: 1.4;
     border-bottom: 1px dashed black;
     margin-bottom: 5%;
@@ -277,6 +278,7 @@ button{
 footer {
     width: 100%;
     background: black;
+    margin-top: 2.5%;
 }
 footer nav {
     width: 60%;
